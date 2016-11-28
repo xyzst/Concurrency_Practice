@@ -1,5 +1,5 @@
 /*
-    FILE: 'proj3A_d_r273.c'
+    FILE: 'proj3A.c'
     AUTHOR: Darren Rambaud
     DATE: November 18, 2016
     DESCRIPTION:    C program which simulates the concurrent execution
